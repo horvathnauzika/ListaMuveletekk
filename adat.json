@@ -1,0 +1,16 @@
+{
+  "emberekLISTA": [
+    {
+      "nev": "Juli",
+      "kor": 33,
+      "nem": false,
+      "id": "d283"
+    },
+    {
+      "nev": "Géza",
+      "kor": 13,
+      "nem": true,
+      "id": "6123"
+    }
+  ]
+}
